@@ -1,2 +1,3 @@
-# Needs to be worked on.
+# Internet Cafe Website
+For customer.
 Actual website coming soon...
